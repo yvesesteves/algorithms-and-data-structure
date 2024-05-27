@@ -1,2 +1,2 @@
 # algorithms-and-data-structure
-exercices and programs 
+Programas e Projetos em C
